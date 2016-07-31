@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/2/gamlss/src/gamlss/algorithm
+END
+RSAlgorithm.java
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2/gamlss/src/gamlss/algorithm/RSAlgorithm.java
+END
+GlobalOptimGAMLSS.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2/gamlss/src/gamlss/algorithm/GlobalOptimGAMLSS.java
+END
+GlimFitCG.java
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2/gamlss/src/gamlss/algorithm/GlimFitCG.java
+END
+CGAlgorithm.java
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2/gamlss/src/gamlss/algorithm/CGAlgorithm.java
+END
+Gamlss.java
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/gamlss/src/gamlss/algorithm/Gamlss.java
+END
+GlimFit.java
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2/gamlss/src/gamlss/algorithm/GlimFit.java
+END
+AdditiveFit.java
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2/gamlss/src/gamlss/algorithm/AdditiveFit.java
+END
+TEST.java
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2/gamlss/src/gamlss/algorithm/TEST.java
+END

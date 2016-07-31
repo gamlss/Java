@@ -1,0 +1,287 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2/gamlss/src/gamlss/utilities/optimisation
+END
+Console.class
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2/gamlss/src/gamlss/utilities/optimisation/Console.class
+END
+LmdifTest_f77.class
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/2/gamlss/src/gamlss/utilities/optimisation/LmdifTest_f77.class
+END
+Fmin.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2/gamlss/src/gamlss/utilities/optimisation/Fmin.java
+END
+Uncmin_methods.class
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/2/gamlss/src/gamlss/utilities/optimisation/Uncmin_methods.class
+END
+copyright
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2/gamlss/src/gamlss/utilities/optimisation/copyright
+END
+FminTest.class
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2/gamlss/src/gamlss/utilities/optimisation/FminTest.class
+END
+FunctionAssembler.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/2/gamlss/src/gamlss/utilities/optimisation/FunctionAssembler.java
+END
+Fmin_methods.class
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/2/gamlss/src/gamlss/utilities/optimisation/Fmin_methods.class
+END
+UncminTest_f77.class
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/2/gamlss/src/gamlss/utilities/optimisation/UncminTest_f77.class
+END
+Blas_f77.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2/gamlss/src/gamlss/utilities/optimisation/Blas_f77.java
+END
+UncminForJava.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/2/gamlss/src/gamlss/utilities/optimisation/UncminForJava.java
+END
+Fzero_methods.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/2/gamlss/src/gamlss/utilities/optimisation/Fzero_methods.java
+END
+HessianOptimizableFunction.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/2/gamlss/src/gamlss/utilities/optimisation/HessianOptimizableFunction.java
+END
+FminTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2/gamlss/src/gamlss/utilities/optimisation/FminTest.java
+END
+FunctionOptimizer.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/2/gamlss/src/gamlss/utilities/optimisation/FunctionOptimizer.java
+END
+LmderTest_f77.class
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/2/gamlss/src/gamlss/utilities/optimisation/LmderTest_f77.class
+END
+ParallelFunctionController.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/2/gamlss/src/gamlss/utilities/optimisation/ParallelFunctionController.java
+END
+Fmin.class
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2/gamlss/src/gamlss/utilities/optimisation/Fmin.class
+END
+OptimizableFunction.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/2/gamlss/src/gamlss/utilities/optimisation/OptimizableFunction.java
+END
+BlockThread.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2/gamlss/src/gamlss/utilities/optimisation/BlockThread.java
+END
+Uncmin_f77.class
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2/gamlss/src/gamlss/utilities/optimisation/Uncmin_f77.class
+END
+disclaimer
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2/gamlss/src/gamlss/utilities/optimisation/disclaimer
+END
+FunctionController.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/2/gamlss/src/gamlss/utilities/optimisation/FunctionController.java
+END
+Lmdif_fcn.class
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2/gamlss/src/gamlss/utilities/optimisation/Lmdif_fcn.class
+END
+Minpack_f77.class
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2/gamlss/src/gamlss/utilities/optimisation/Minpack_f77.class
+END
+Uncmin_f77.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2/gamlss/src/gamlss/utilities/optimisation/Uncmin_f77.java
+END
+Fzero.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2/gamlss/src/gamlss/utilities/optimisation/Fzero.java
+END
+SimpleFunctionOptimizer.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/2/gamlss/src/gamlss/utilities/optimisation/SimpleFunctionOptimizer.java
+END
+GradientOptimizableFunction.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/2/gamlss/src/gamlss/utilities/optimisation/GradientOptimizableFunction.java
+END
+LmderTest_f77.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/2/gamlss/src/gamlss/utilities/optimisation/LmderTest_f77.java
+END
+SimpleOptimizableFunction.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/2/gamlss/src/gamlss/utilities/optimisation/SimpleOptimizableFunction.java
+END
+FzeroTest.class
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2/gamlss/src/gamlss/utilities/optimisation/FzeroTest.class
+END
+Fzero_methods.class
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/2/gamlss/src/gamlss/utilities/optimisation/Fzero_methods.class
+END
+Lmder_fcn.class
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2/gamlss/src/gamlss/utilities/optimisation/Lmder_fcn.class
+END
+Blas_f77.class
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2/gamlss/src/gamlss/utilities/optimisation/Blas_f77.class
+END
+Lmder_fcn.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2/gamlss/src/gamlss/utilities/optimisation/Lmder_fcn.java
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2/gamlss/src/gamlss/utilities/optimisation/README
+END
+UncminTest_f77.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/2/gamlss/src/gamlss/utilities/optimisation/UncminTest_f77.java
+END
+FzeroTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2/gamlss/src/gamlss/utilities/optimisation/FzeroTest.java
+END
+Fmin_methods.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2/gamlss/src/gamlss/utilities/optimisation/Fmin_methods.java
+END
+AdditiveFunctionAssembler.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/2/gamlss/src/gamlss/utilities/optimisation/AdditiveFunctionAssembler.java
+END
+Uncmin_methods.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/2/gamlss/src/gamlss/utilities/optimisation/Uncmin_methods.java
+END
+LmdifTest_f77.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/2/gamlss/src/gamlss/utilities/optimisation/LmdifTest_f77.java
+END
+Fzero.class
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2/gamlss/src/gamlss/utilities/optimisation/Fzero.class
+END
+Console.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2/gamlss/src/gamlss/utilities/optimisation/Console.java
+END
+Lmdif_fcn.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2/gamlss/src/gamlss/utilities/optimisation/Lmdif_fcn.java
+END
+Minpack_f77.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2/gamlss/src/gamlss/utilities/optimisation/Minpack_f77.java
+END
